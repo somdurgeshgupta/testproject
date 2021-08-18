@@ -1,0 +1,8 @@
+[
+    {"id":1, "name": "Som Durgesh Gupta", "age": 20, "gender": "Male"},
+    {"id":2, "name": "Durgesh Gupta", "age": 26, "gender": "Male"},
+    {"id":3, "name": "Atharva Gupta", "age": 45, "gender": "Male"},
+    {"id":4, "name": "Alena Gupta", "age": 24, "gender": "female"},
+    {"id":5, "name": "Elon Gupta", "age": 37, "gender": "Male"},
+    {"id":6, "name": "Jimmy Gupta", "age": 34, "gender": "female"}
+  ]

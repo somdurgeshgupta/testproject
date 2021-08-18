@@ -1,0 +1,21 @@
+<table>
+    <thead>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Gender</th>
+    </thead>
+    <tbody *ngFor= "let item of persons">
+        <td>{{item.id}}</td>
+        <td>{{item.name}}</td>
+        <td>{{item.age}}</td>
+        <td>{{item.gender}}</td>
+
+    </tbody>
+</table>
+
+<div>
+    <ul>
+        <button (click)="NaviHome()">Navigate to Home page</button>
+    </ul>
+</div>
